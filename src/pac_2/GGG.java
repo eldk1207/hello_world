@@ -5,7 +5,7 @@ public class GGG {
 	
 	public int a = 70000;
 	public int b = 77777;
-	
+	public int bb = 88888;
 	
 }
 
