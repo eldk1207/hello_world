@@ -1,44 +1,44 @@
 # CLAUDE.md
 
-## Project Overview
+## 프로젝트 개요
 
-**hello_world** is a practice/learning repository (연습용). It currently serves as a skeleton project with no active source code, build system, or dependencies.
+**hello_world**는 연습용 저장소입니다. 현재 소스 코드, 빌드 시스템, 의존성이 없는 초기 상태의 프로젝트입니다.
 
-## Repository Structure
+## 저장소 구조
 
 ```
 hello_world/
-├── CLAUDE.md          # AI assistant guidance (this file)
-└── README.md          # Project description
+├── CLAUDE.md          # AI 어시스턴트 가이드 (이 파일)
+└── README.md          # 프로젝트 설명
 ```
 
-## Current State
+## 현재 상태
 
-- No source code, build configuration, or dependencies are present
-- No test framework or CI/CD pipeline is configured
-- The repository is a blank slate intended for practice and experimentation
+- 소스 코드, 빌드 설정, 의존성 없음
+- 테스트 프레임워크 및 CI/CD 파이프라인 미설정
+- 연습 및 실험을 위한 빈 프로젝트 상태
 
-## Development Guidelines
+## 개발 가이드라인
 
-When adding code to this repository, follow these conventions:
+이 저장소에 코드를 추가할 때 다음 규칙을 따를 것:
 
-### General
+### 일반 규칙
 
-- Keep the README.md updated as the project evolves
-- Use clear, descriptive commit messages
-- Create feature branches for new work
+- 프로젝트가 변경될 때 README.md를 최신 상태로 유지할 것
+- 명확하고 설명적인 커밋 메시지를 사용할 것
+- 새로운 작업은 기능 브랜치를 생성하여 진행할 것
 
-### Adding a New Language/Framework
+### 새로운 언어/프레임워크 추가 시
 
-When a language or framework is introduced, update this file with:
-1. Build and run commands
-2. Test commands
-3. Linting/formatting commands
-4. Dependency management instructions
+언어나 프레임워크를 도입할 경우 이 파일에 다음 내용을 반드시 추가할 것:
+1. 빌드 및 실행 명령어
+2. 테스트 명령어
+3. 린팅/포맷팅 명령어
+4. 의존성 관리 방법
 
-## Useful Commands
+## 주요 명령어
 
 ```bash
-# No build/test/lint commands configured yet
-# Update this section when tooling is added
+# 아직 빌드/테스트/린트 명령어가 설정되지 않음
+# 도구가 추가되면 이 섹션을 업데이트할 것
 ```
